@@ -1,8 +1,8 @@
 # DeepQLearning Snack Game
 
-That's how your Snake AI trains itself using Deep Q-Learning!
+It use Apple Silicon GPU to train instead of CPU.
 
-## It use Apple Silicon GPU to train instead of CPU.
+That's how your Snake AI trains itself using Deep Q-Learning!
 
 1. Observing the current state of the game.
 2. Taking an action (move left, right, up, down).
