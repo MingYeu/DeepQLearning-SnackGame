@@ -40,9 +40,4 @@ self.optimizer.step()
 if score > record:
     agent.model.save()
 
-## Result
-![simulator](./images/simulator.png)
-
-
-![training chart](./images/training chart.png)
 
