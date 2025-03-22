@@ -2,6 +2,14 @@
 
 It use Apple Silicon GPU to train instead of CPU.
 
+# How to start!!
+## Train the model
+python3 train.py
+
+## Use the model to play
+python3 play.py
+
+
 That's how your Snake AI trains itself using Deep Q-Learning!
 
 1. Observing the current state of the game.
