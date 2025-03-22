@@ -2,6 +2,8 @@
 
 That's how your Snake AI trains itself using Deep Q-Learning!
 
+## It use Apple Silicon GPU to train instead of CPU.
+
 1. Observing the current state of the game.
 2. Taking an action (move left, right, up, down).
 3. Receiving a reward (for example, +10 for eating food, -10 for dying).
